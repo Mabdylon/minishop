@@ -1,6 +1,6 @@
-** All code is in index.ts
+### All code is in index.ts
 
-** To test, launch :
+### To test, launch :
 
 ```
 yarn start
