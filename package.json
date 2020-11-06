@@ -1,0 +1,10 @@
+{
+  "name": "Arvald",
+  "version": "1.0.0",
+  "description": "small test on shop app",
+  "main": "index.js",
+  "repository": "https://github.com/Mabdylon/minishop",
+  "author": "Mathieu B",
+  "license": "MIT",
+  "private": false
+}
