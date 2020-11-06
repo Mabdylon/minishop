@@ -4,7 +4,7 @@
   "description": "small test on shop app",
   "main": "index.js",
   "scripts": {
-    "launch": "node index.ts"
+    "start": "ts-node index.ts"
   },
   "repository": "https://github.com/Mabdylon/minishop",
   "author": "Mathieu B",
